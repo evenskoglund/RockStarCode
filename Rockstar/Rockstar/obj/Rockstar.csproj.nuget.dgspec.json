@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RockStar\\RockStarCode\\Rockstar\\Rockstar\\Rockstar.csproj": {}
+    "D:\\RockStarCode\\Rockstar\\Rockstar\\Rockstar.csproj": {}
   },
   "projects": {
-    "D:\\RockStar\\RockStarCode\\Rockstar\\Rockstar\\Rockstar.csproj": {
+    "D:\\RockStarCode\\Rockstar\\Rockstar\\Rockstar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RockStar\\RockStarCode\\Rockstar\\Rockstar\\Rockstar.csproj",
+        "projectUniqueName": "D:\\RockStarCode\\Rockstar\\Rockstar\\Rockstar.csproj",
         "projectName": "Rockstar",
-        "projectPath": "D:\\RockStar\\RockStarCode\\Rockstar\\Rockstar\\Rockstar.csproj",
+        "projectPath": "D:\\RockStarCode\\Rockstar\\Rockstar\\Rockstar.csproj",
         "packagesPath": "C:\\Users\\evsk\\.nuget\\packages\\",
-        "outputPath": "D:\\RockStar\\RockStarCode\\Rockstar\\Rockstar\\obj\\",
+        "outputPath": "D:\\RockStarCode\\Rockstar\\Rockstar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

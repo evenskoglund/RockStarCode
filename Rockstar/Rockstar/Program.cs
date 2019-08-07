@@ -36,33 +36,33 @@ namespace Rockstar
         /// <summary>
         /// Modulo. 
         /// </summary>
-        /// <param name="your_love"></param>
         /// <param name="your_mind"></param>
+        /// <param name="the sky"></param>
         /// <returns></returns>
-        public static int destiny(int your_love, int your_mind)
+        public static int destiny(int your_mind, int the_sky)
         {
-            // Substract second number from first until the result is less than the first
-            while (your_love >= your_mind)
+            // Substract devisor from number until number is less than divisor
+            while (your_mind >= the_sky)
             {
-                your_love -= your_mind;
+                your_mind = your_mind - the_sky;
             }
-            return your_love;
+            return your_mind;
         }
 
 
 
         static void Main(string[] args)
         {
-            int the_drugs = 0;
+            int the_drug = 0;
             int whiskey = 100;
 
-            while (the_drugs != whiskey)
+            while (the_drug != whiskey)
             {
-                the_drugs++;
-                int my_soul = my_baby(the_drugs);
+                the_drug++;
+                int my_soul = my_baby(the_drug);
 
                 if (my_soul != 0)
-                    Console.WriteLine(the_drugs);
+                    Console.WriteLine(the_drug);
             }
 
         }
