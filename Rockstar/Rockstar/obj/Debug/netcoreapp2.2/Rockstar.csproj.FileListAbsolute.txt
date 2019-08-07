@@ -1,0 +1,11 @@
+D:\RockStar\RockStarCode\Rockstar\Rockstar\bin\Debug\netcoreapp2.2\Rockstar.deps.json
+D:\RockStar\RockStarCode\Rockstar\Rockstar\bin\Debug\netcoreapp2.2\Rockstar.runtimeconfig.json
+D:\RockStar\RockStarCode\Rockstar\Rockstar\bin\Debug\netcoreapp2.2\Rockstar.runtimeconfig.dev.json
+D:\RockStar\RockStarCode\Rockstar\Rockstar\bin\Debug\netcoreapp2.2\Rockstar.dll
+D:\RockStar\RockStarCode\Rockstar\Rockstar\bin\Debug\netcoreapp2.2\Rockstar.pdb
+D:\RockStar\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.csprojAssemblyReference.cache
+D:\RockStar\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.csproj.CoreCompileInputs.cache
+D:\RockStar\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.AssemblyInfoInputs.cache
+D:\RockStar\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.AssemblyInfo.cs
+D:\RockStar\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.dll
+D:\RockStar\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.pdb
