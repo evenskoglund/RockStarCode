@@ -1,0 +1,10 @@
+﻿Limit is 20
+Counter is 1
+Prev is 0
+Next is 1
+While Counter is as low as Limit
+Put Prev plus Next into Sum
+Let Prev be Next
+Let Next be Sum
+Say Next
+Build Counter up 
