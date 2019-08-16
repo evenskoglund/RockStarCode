@@ -7,33 +7,6 @@ namespace Rockstar
     {
 
         /// <summary>
-        /// Determines if a number is a prime number
-        /// </summary>
-        /// <param name="the_medicine"></param>
-        /// <returns>the number if prime, 0 if not</returns>
-        public static int my_baby(int the_medicine)
-        {
-            int your_body = 2;
-            int the_deamons = 0;
-
-            // Return 0 is number is less than 2
-            if (the_medicine < your_body)
-                return the_deamons;
-
-            // From 2 to the number, if the number is divisable by the counter, return 0
-            while (your_body != the_medicine)
-            {
-                if (destiny(the_medicine, your_body) == 0)
-                    return the_deamons;
-
-                your_body++;
-            }
-
-            // Return the number as prime
-            return the_medicine;
-        }
-
-        /// <summary>
         /// Modulo. 
         /// </summary>
         /// <param name="your_mind"></param>
@@ -49,7 +22,32 @@ namespace Rockstar
             return your_mind;
         }
 
+        /// <summary>
+        /// Determines if a number is a prime number
+        /// </summary>
+        /// <param name="the_medicine"></param>
+        /// <returns>the number if prime, 0 if not</returns>
+        public static int my_baby(int the_medicine)
+        {
+            int your_body = 2;
+            int the_deamons = 0;
 
+            // Return 0 if number is less than 2
+            if (the_medicine < your_body)
+                return the_deamons;
+
+            // From 2 to the number, if the number is divisable by the counter, return 0
+            while (your_body < the_medicine)
+            {
+                if (destiny(the_medicine, your_body) == 0)
+                    return the_deamons;
+
+                your_body++;
+            }
+
+            // Return the number as prime
+            return the_medicine;
+        }
 
         static void Main(string[] args)
         {

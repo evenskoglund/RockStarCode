@@ -9,3 +9,14 @@ D:\RockStar\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.Asse
 D:\RockStar\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.AssemblyInfo.cs
 D:\RockStar\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.dll
 D:\RockStar\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.pdb
+D:\RockStarCode\Rockstar\Rockstar\bin\Debug\netcoreapp2.2\Rockstar.deps.json
+D:\RockStarCode\Rockstar\Rockstar\bin\Debug\netcoreapp2.2\Rockstar.runtimeconfig.json
+D:\RockStarCode\Rockstar\Rockstar\bin\Debug\netcoreapp2.2\Rockstar.runtimeconfig.dev.json
+D:\RockStarCode\Rockstar\Rockstar\bin\Debug\netcoreapp2.2\Rockstar.dll
+D:\RockStarCode\Rockstar\Rockstar\bin\Debug\netcoreapp2.2\Rockstar.pdb
+D:\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.csprojAssemblyReference.cache
+D:\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.csproj.CoreCompileInputs.cache
+D:\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.AssemblyInfoInputs.cache
+D:\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.AssemblyInfo.cs
+D:\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.dll
+D:\RockStarCode\Rockstar\Rockstar\obj\Debug\netcoreapp2.2\Rockstar.pdb

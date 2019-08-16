@@ -1,4 +1,10 @@
-﻿FindPrime takes number
+﻿Modulus takes Number and Divisor
+While Number is as high as Divisor
+Put Number minus Divisor into Number
+    (blank line ending While block)
+Give back Number
+    (blank line ending function declaration)
+FindPrime takes number
 Counter is 2
 Default is 0
 If number is less than Counter
@@ -12,15 +18,9 @@ Build Counter up
 	(blank line ending while block)
 Give back number
 	(blank line ending function declaration)
-Modulus takes Number and Divisor
-While Number is as high as Divisor
-Put Number minus Divisor into Number
-    (blank line ending While block)
-Give back Number
-    (blank line ending function declaration)
 Counter is 0
 Limit is 100
-While Counter is as low as Limit
+While Counter is lower than Limit
 Build Counter up
 Put FindPrime taking Counter into Result
 If Result is not 0
